@@ -34,6 +34,13 @@ Insights from this analysis help undeerstand concepts on :
    cd Exploratory_Data_Analysis
    python eda.py
 
+## Related Projects
+
+[Fine_Tuning_LLM](https://github.com/krishnamami/Fine_Tuning_LLM)
+
+[Markov_Chain_Attribution](https://github.com/krishnamami/Markov_Chain_Attribution)
+
+[Distributed ML SageMaker Pipeline](https://github.com/krishnamami/Distributed_ML_Sagemaker_Pipelines)
 
 ## Krishna Goud
 
