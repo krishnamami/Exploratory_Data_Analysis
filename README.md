@@ -38,6 +38,7 @@ Insights from this analysis help undeerstand concepts on :
 ## Krishna Goud
 
 AI & Data Engineering Leader | Head of Data Engineering @ Rocket LA [LinkedIn](https://www.linkedin.com/in/krishnagoud)
+
 Delivering real-world insights through data exploration, automation, and applied ML
 
 
